@@ -1,6 +1,6 @@
 <!-- Change to an H1 -->
 
-All about Raccoons
+# All about Raccoons
 
 <!-- The text below is ASCII art of a raccoon. Wrap it in a code block. -->
 
@@ -15,13 +15,15 @@ All about Raccoons
 
 Source https://en.wikipedia.org/wiki/Raccoon
 
-<!-- Bold only the first sentence of the following paragraph -->
+<!-- Bold only the first sentence of the following paragraph --> 
+**The raccoon, sometimes called the common raccoon to distinguish it from other species, is a medium-sized mammal native**
 
-The raccoon, sometimes called the common raccoon to distinguish it from other species, is a medium-sized mammal native to North America. It is the largest of the procyonid family, having a body length of 40 to 70 cm (16 to 28 in), and a body weight of 5 to 26 kg (11 to 57 lb). Its grayish coat mostly consists of dense underfur, which insulates it against cold weather. Three of the raccoon's most distinctive features are its extremely dexterous front paws, its facial mask, and its ringed tail, which are themes in the mythologies of the indigenous peoples of the Americas relating to the animal. The raccoon is noted for its intelligence, as studies show that it is able to remember the solution to tasks for at least three years. It is usually nocturnal and omnivorous, eating about 40% invertebrates, 33% plants, and 27% vertebrates.
+The raccoon, sometimes called the common raccoon to distinguish it from other species, is a medium-sized mammal native
+ to North America. It is the largest of the procyonid family, having a body length of 40 to 70 cm (16 to 28 in), and a body weight of 5 to 26 kg (11 to 57 lb). Its grayish coat mostly consists of dense underfur, which insulates it against cold weather. Three of the raccoon's most distinctive features are its extremely dexterous front paws, its facial mask, and its ringed tail, which are themes in the mythologies of the indigenous peoples of the Americas relating to the animal. The raccoon is noted for its intelligence, as studies show that it is able to remember the solution to tasks for at least three years. It is usually nocturnal and omnivorous, eating about 40% invertebrates, 33% plants, and 27% vertebrates.
 
 <!-- Change to an H2 -->
 
-Taxonomy
+## Taxonomy
 
 <!-- Italicize all of the latin words (e.g. Ursus) -->
 
@@ -29,7 +31,7 @@ In the first decades after its discovery by the members of the expedition of Chr
 
 <!-- Change to an H3 -->
 
-Evolution
+### Evolution
 
 <!-- Create three paragraphs from the following paragraph. You may start the paragraphs wherever you like. -->
 
