@@ -22,7 +22,6 @@ For example, the following code:
 
 ```md
 <!-- Change to an H3 -->
-
 All about Dogs
 ```
 
