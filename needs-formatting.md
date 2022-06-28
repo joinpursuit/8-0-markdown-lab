@@ -25,7 +25,7 @@ Taxonomy
 
 <!-- Italicize all of the latin words (e.g. *Ursus*) -->
 
-In the first decades after its discovery by the members of the expedition of Christopher Columbus, who were the first Europeans to leave a written record about the species, taxonomists thought the raccoon was related to many different species, including dogs, cats, badgers and particularly bears. *Carl Linnaeus*, the father of modern taxonomy, placed the raccoon in the genus *Ursus*, first as *Ursus* *cauda elongata *("long-tailed bear") in the second edition of his *Systema Naturae* (1740), then as *Ursus* *Lotor* ("washer bear") in the tenth edition (1758–59). In 1780, Gottlieb Conrad Christian Storr placed the raccoon in its own genus *Procyon*, which can be translated as either "before the dog" or "doglike". It is also possible that Storr had its nocturnal lifestyle in mind and chose the star Procyon as eponym for the species.
+In the first decades after its discovery by the members of the expedition of Christopher Columbus, who were the first Europeans to leave a written record about the species, taxonomists thought the raccoon was related to many different species, including dogs, cats, badgers and particularly bears. *Carl Linnaeus*, the father of modern taxonomy, placed the raccoon in the genus *Ursus*, first as *Ursus* *cauda elongata *("long-tailed bear") in the second edition of his *Systema Naturae* (1740), then as *Ursus* *Lotor* ("washer bear") in the tenth edition (1758–59). In 1780, Gottlieb Conrad Christian Storr placed the raccoon in its own genus *Procyon*, which can be translated as either "before the dog" or "doglike". It is also possible that Storr had its nocturnal lifestyle in mind and chose the star *Procyon* as eponym for the species.
 
 <!-- Change to an H3 -->
 # 3
@@ -41,4 +41,6 @@ Evolution
 
 <!-- Change the link below to be an image. Include descriptive alternate text. -->
 
-https://curiodyssey.org/wp-content/uploads/bb-plugin/cache/Mammals-Raccoon-square.jpg
+<img src="https://curiodyssey.org/wp-content/uploads/bb-plugin/cache/Mammals-Raccoon-square.jpg">
+
+
