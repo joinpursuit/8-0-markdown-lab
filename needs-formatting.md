@@ -41,8 +41,4 @@ Evolution
 
 <!-- Change the link below to be an image. Include descriptive alternate text. -->
 
-<img src="https://curiodyssey.org/wp-content/uploads/bb-plugin/cache/Mammals-Raccoon-square.jpg">
-
-
-
-
+https://curiodyssey.org/wp-content/uploads/bb-plugin/cache/Mammals-Raccoon-square.jpg
