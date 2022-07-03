@@ -3,14 +3,14 @@
 All about Raccoons
 
 <!-- The text below is ASCII art of a raccoon. Wrap it in a code block. -->
-
-                        ,,,
-                     .'    `/\_/\
-                   .'       <@I@>
-        <((((((((((  )____(  \./
-                   \( \(   \(\(
-                    `-"`-"  " "
-
+************************************************************************
+***********************                     ,,,*************************
+***********************              .'    `/\_/\***********************
+***********************            .'       <@I@>***********************
+*********************** <((((((((((  )____(  \./************************
+***********************             \( \(   \(\(************************
+***********************             `-"`-"  " "*************************
+************************************************************************
 <!-- Change to a bullet point and link. -->
 
 Source https://en.wikipedia.org/wiki/Raccoon
@@ -41,6 +41,9 @@ Evolution
 
 <!-- Change the link below to be an image. Include descriptive alternate text. -->
 
-<img src="https://curiodyssey.org/wp-content/uploads/bb-plugin/cache/Mammals-Raccoon-square.jpg">
 
 
+
+
+<img
+src="https://curiodyssey.org/wp-content/uploads/bb-plugin/cache/Mammals-Raccoon-square.jpg.">
