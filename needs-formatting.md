@@ -14,6 +14,7 @@ All about Raccoons
 <!-- Change to a bullet point and link. -->
 
 Source https://en.wikipedia.org/wiki/Raccoon
+[1]: <https://en.wikipedia.org/wiki/Raccoon> "Raccoons"
 
 <!-- Bold only the first sentence of the following paragraph -->
 
